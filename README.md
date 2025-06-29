@@ -2,7 +2,7 @@ pkg update
 
 pkg upgrade -y
 
-pkg install git
+pkg install git -y
 
 pkg install python -y
 
