@@ -1,0 +1,4 @@
+{
+    "Warning":"Not allow only ip:port, proxy must already pair with proxy type with ip:port",
+    "proxy_file_path":"None"
+}
